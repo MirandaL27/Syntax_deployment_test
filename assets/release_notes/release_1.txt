@@ -1,0 +1,5 @@
+Run Instructions:
+
+* Download the release
+* open the folder
+* double click the flowchartest.exe file
